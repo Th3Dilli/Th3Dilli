@@ -22,7 +22,7 @@
         src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg"
         alt="th3dilli" height="40" width="40" />
   </a>
-  <a style="color:#7289da;font-weight: bold">
+  <a href="" target="blank">
   <img align="center" 
     src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg"
     alt="Th3Dilli#0294" height="40" width="40" />
