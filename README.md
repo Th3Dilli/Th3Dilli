@@ -71,10 +71,3 @@
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travis-ci" height="50" />  
 </div>
-
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=th3dilli&label=Profile%20views&color=0e75b6&style=flat"
-    alt="th3dilli"
-  />
-</p>
