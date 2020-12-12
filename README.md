@@ -2,22 +2,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://gitlab.com/th3dilli" target="blank" >
+  <a href="https://gitlab.com/th3dilli">
     <img align="center"
       src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg"
       alt="th3dilli" height="40" width="40" />
   </a>
-  <a href="https://twitter.com/th3dilli" target="blank">
+  <a href="https://twitter.com/th3dilli">
     <img align="center"
       src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"
       alt="th3dilli" height="40" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/th3dilli" target="blank" >
+  <a href="https://stackoverflow.com/users/th3dilli">
     <img align="center"
       src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg"
       alt="th3dilli" height="40" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/th3dilli" target="blank" >
+  <a href="https://www.youtube.com/c/th3dilli">
     <img align="center"
         src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg"
         alt="th3dilli" height="40" width="40" />
