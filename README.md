@@ -22,12 +22,12 @@
         src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg"
         alt="th3dilli" height="40" width="40" />
   </a>
-  <a href="" target="blank">
+  <b>
   <img align="center" 
     src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg"
     alt="Th3Dilli#0294" height="40" width="40" />
     Th3Dilli#0294
-  </a>
+  </b>
 </p>
 
 ### Languages
@@ -78,12 +78,3 @@
     alt="th3dilli"
   />
 </p>
-
-## Connect with me
-
-<div align="center">
-<a href="https://github.com/Th3Dilli" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<img src=https://img.shields.io/badge/Th3Dilli-%2300acee.svg?&style=for-the-badge&logo=discord&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</div>
